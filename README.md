@@ -1,1 +1,1 @@
-# html_css
+Training Kit: step by step html and css
