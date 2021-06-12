@@ -4,4 +4,4 @@ Training Kit for begginers:
     
 Projects Used in Training-Kit:
 ------------------------------
-  Visual Studio Code, LiveServer, Web browser (Google Chrome)
+  Visual Studio Code, LiveServer, Web browser (Google Chrome).
